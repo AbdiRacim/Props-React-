@@ -114,7 +114,7 @@ return(
     Profile.defaultProps = {
         image:`${unknown}`,
         fullName: "Jason Diams",
-        bio: "you don't need a bio when you're a legend but hey i'll tell you what i do, basically i steal data from companies like apple, microsoft, amazon, and i'm not going to stop now or ever d 'somewhere else .",
+        bio: "you don't need a bio when you're a legend but hey i'll tell you what i do, basically i steal data from companies like apple, microsoft, amazon, and i'm not going to stop now or ever d 'somewhere elsee .",
         profession: "Hackeur pro XD"
     };
 
